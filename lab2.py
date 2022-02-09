@@ -41,8 +41,13 @@ print('hello world.This is my first python string'.split('.'))
 
 #3.9
 
+<<<<<<< HEAD
 #message ='tom's id is 
 #print(message)
 
 #4 
 
+=======
+#message ='tom's id is 123'
+print(message)
+>>>>>>> f62fe1d5626022aa9779e0a62cfd563ce4b69cc2
